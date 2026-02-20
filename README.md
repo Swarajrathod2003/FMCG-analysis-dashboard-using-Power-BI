@@ -86,4 +86,4 @@ Sales trend analysis Dashboard: https://github.com/Swarajrathod2003/FMCG-analysi
 
 Inventory level Monitoring Dashboard: https://github.com/Swarajrathod2003/FMCG-analysis-dashboard-using-Power-BI/blob/main/Inventory%20level%20Monitoring%20Dashboard.png
 
-Region wise performance Dashboard: 
+Region wise performance Dashboard: https://github.com/Swarajrathod2003/FMCG-analysis-dashboard-using-Power-BI/blob/main/Region%20wise%20performance%20Dashboard.png
